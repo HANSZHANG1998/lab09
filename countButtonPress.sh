@@ -27,7 +27,7 @@ do
             sleep 1
             gpio write 4 0 
 	    echo "program finished after 16 times"
-	    break;
+	    break
         fi
     fi
 done
